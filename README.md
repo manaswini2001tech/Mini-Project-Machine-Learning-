@@ -11,7 +11,9 @@ The machine is trained only to tell the difference in 3 categories of images.
 #### INPUT: 
 _An image will be uploaded._
 #### How & Where? See below in the web app created.
-<img src="Screenshots/Input1.jpg"/>
+<img src="Screenshots/Input1.jpg"
+width = "500"/>
+
 #### OUTPUT:
 
 
