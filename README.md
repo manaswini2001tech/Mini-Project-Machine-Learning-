@@ -32,3 +32,5 @@ width = "500"/>
 #### Deployment into Web-App
  - Using streamlit 
 
+#### Testing Images Folder:
+ - Images to be tested for predicting the output
