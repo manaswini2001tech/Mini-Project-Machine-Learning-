@@ -1,2 +1,2 @@
-# Mini-Project-Machine-Learning-
+## Mini Project Machine Learning
 Image Classifier using Machine Learning
