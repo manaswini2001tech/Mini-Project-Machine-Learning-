@@ -10,6 +10,8 @@ The machine is trained only to tell the difference in 3 categories of images.
 *If an image other than this uploaded it will decide the one most similar among these 3 categories and will also display their percentages of their similarity with these 3 types.*
 #### INPUT: 
 _An image will be uploaded._
+#### How & Where? See below in the web app created.
+<img src="Screenshots/Input1.jpg"/>
 #### OUTPUT:
 
 
