@@ -1,4 +1,5 @@
 # Mini Project using Machine Learning
+Link to Google Colab: https://colab.research.google.com/drive/1IwPaOxxPp-kjl3PwfDHkVYSoI0pS6aFJ?usp=sharing
 ## Project: Image Classifier using Machine Learning
 ### **Image classifier**:
 #### What is it about?
