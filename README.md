@@ -16,4 +16,7 @@ width = "500"/>
 
 #### OUTPUT:
 
+<img src="Screenshots/Output1.jpg"
+width = "500"/>
+
 
